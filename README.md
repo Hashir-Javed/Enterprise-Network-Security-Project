@@ -7,6 +7,8 @@ A secure multi-site network infrastructure built using two FortiGate firewalls, 
 ---
 
 ## Diagram
+![diagram](diagram.png)
+
 
 
 
