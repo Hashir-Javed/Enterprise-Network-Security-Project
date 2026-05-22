@@ -178,7 +178,27 @@ SSH Server:
 
 ---
 
- 
+
+## AWS Integration
+
+![1st_AWS_vpn_tunnel](Images/1st_AWS_vpn_tunnel.png)
+
+![2nd_AWS_vpn_tunnel](Images/2nd_AWS_vpn_tunnel.png)
+
+![AWS_tunnel_interfaces](Images/AWS_tunnel_interfaces.png)
+
+![static_routes](Images/static_routes.png)
+
+![AWS_Firewall_policies](Images/AWS_Firewall_policies.png)
+
+![AWS_tunnel_connections](Images/AWS_tunnel_connections.png)
+
+![AWS_tunnel_connections_up](Images/AWS_tunnel_connections_up.png)
+
+![AWS_tunnel_status_up_from_console](Images/AWS_tunnel_status_up_from_console.png)
+
+
+
 
 
 
