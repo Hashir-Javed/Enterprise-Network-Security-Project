@@ -103,7 +103,15 @@ SSH Server:
 
 ![SSH_server_log_settings](Images/SSH_server_log_settings.png)
 
+#
+
+Splunk Server UDP listening ports setup:
+
+![UDP_data_inputs](Images/UDP_data_inputs.png)
+
 ---
+
+
 
 
 
