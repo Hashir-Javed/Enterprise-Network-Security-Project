@@ -30,6 +30,12 @@ Site 2 to Site 1:
 ![site2_to_site1_vpn](Images/site2_to_site1_vpn.png)
 ![status_tosite1](Images/status_tosite1.png)
 
+---
+
+## Client-Based VPN for remote access
+
+
+
 
 
 
