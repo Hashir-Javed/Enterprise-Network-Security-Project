@@ -50,12 +50,36 @@ Site 2 to Site 1:
 
 ---
 
-## Attack Simulation
+## Apache Web Server and SSH Server set up for remote accessible connections
 
-Before starting the attacks, a DOS Policy is created to block anomalies:
+![Apache_web_server_running](Images/Apache_web_server_running.png)
+![SSH_Server_running](Images/SSH_Server_running.png)
 
-![Dos_policy](Images/Dos_policy.png)
-![Dos_policy_cont](Images/Dos_policy_cont.png)
+---
+
+## Connectivity through VPN tunnel to servers from remote user established
+
+Ping test:
+
+![connectivity_through_site_to_site_vpn](Images/connectivity_through_site_to_site_vpn.png)
+
+#
+
+Apache Web Server connection test:
+
+![apache_web_server_accessible](Images/apache_web_server_accessible.png)
+
+#
+
+SSH Server connection test:
+
+![SSH_Server_accessible](Images/SSH_Server_accessible.png)
+
+
+
+
+
+
 
 
 
