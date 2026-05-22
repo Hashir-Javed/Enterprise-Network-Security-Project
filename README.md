@@ -7,6 +7,20 @@ A secure multi-site network infrastructure built using two FortiGate firewalls, 
 ---
 
 ## Diagram
+![diagram](diagram.png)
+
+---
+
+## Addressing Scheme
+![addressing](addressing.png)
+
+---
+
+## Site-to-site VPN Implementation
+
+![tosite2](site1-to-site2 tunnel.png)
+
+
 
 
 
