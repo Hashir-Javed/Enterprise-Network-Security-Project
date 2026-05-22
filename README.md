@@ -112,6 +112,14 @@ Splunk Server UDP listening ports setup:
 ---
 
 
+### Attack Simulation
+
+Before simulating the attacks, a DOS policy is configured to block unwanted anomalies:
+
+![Dos_policy](Images/Dos_policy.png)
+![Dos_policy_cont](Images/Dos_policy_cont.png)
+
+
 
 
 
