@@ -77,7 +77,35 @@ SSH Server connection test:
 
 ---
 
-### Logging and Splunk setup
+### Logging and Splunk setup to collect logs from required core devices
+
+FortiGate1:
+
+![FORTIGATE1_log_settings](Images/FORTIGATE1_log_settings.png)
+![FORTIGATE1_CLI_syslog_show](Images/FORTIGATE1_CLI_syslog_show.png)
+
+#
+
+FortiGate2:
+
+![FORTIGATE2_log_settings](Images/FORTIGATE2_log_settings.png)
+![FORTIGATE2_CLI_syslog_show](Images/FORTIGATE2_CLI_syslog_show.png)
+
+#
+
+Apache Web Server:
+
+![Apache_web_server_log_settings](Images/Apache_web_server_log_settings.png)
+
+#
+
+SSH Server:
+
+![SSH_server_log_settings](Images/SSH_server_log_settings.png)
+
+---
+
+
 
 
 
