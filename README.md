@@ -75,6 +75,15 @@ SSH Server connection test:
 
 ![SSH_Server_accessible](Images/SSH_Server_accessible.png)
 
+---
+
+### Logging and Splunk setup
+
+
+
+
+
+
 
 
 
