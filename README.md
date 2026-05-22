@@ -34,6 +34,41 @@ Site 2 to Site 1:
 
 ## Client-Based VPN for remote access
 
+![Client_based_VPN](Images/Client_based_VPN.png)
+
+![remote_user_creation](Images/remote_user_creation.png)
+
+![remoteaccess_connection](Images/remoteaccess_connection.png)
+
+![remoteaccess_connection_info](Images/remoteaccess_connection_info.png)
+
+![server_address_for_remoteaccess](Images/server_address_for_remoteaccess.png)
+
+![Remoteaccess_properties](Images/Remoteaccess_properties.png)
+
+![remote_connection_up](Images/remote_connection_up.png)
+
+---
+
+## Attack Simulation
+
+Before starting the attacks, a DOS Policy is created to block anomalies:
+
+![Dos_policy](Images/Dos_policy.png)
+![Dos_policy_cont](Images/Dos_policy_cont.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
