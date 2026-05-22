@@ -119,6 +119,45 @@ Before simulating the attacks, a DOS policy is configured to block unwanted anom
 ![Dos_policy](Images/Dos_policy.png)
 ![Dos_policy_cont](Images/Dos_policy_cont.png)
 
+UDP Flood Attack:
+
+![Udp_flood_attack](Images/Udp_flood_attack.png)
+![Udp_flood_anomaly](Images/Udp_flood_anomaly.png)
+
+UDP Flood Attack successfully logged:
+
+![udp_flood_detection](Images/udp_flood_detection.png)
+
+
+
+
+
+#
+
+ICMP Echo Flood Attack:
+
+![Icmp_flood_attack](Images/Icmp_flood_attack.png)
+![Icmp_flood_anomaly](Images/Icmp_flood_anomaly.png)
+
+ICMP Echo Flood Attack successfully logged:
+
+![icmp_detect](Images/icmp_flood_detection.png)
+
+
+#
+
+NMAP Scan Attack:
+
+![NMAP](Images/NMAP.png)
+
+NMAP Scan Attack successfully logged:
+
+![NMAP_Detection](Images/NMAP_Detection.png)
+
+
+
+
+
 
 
 
