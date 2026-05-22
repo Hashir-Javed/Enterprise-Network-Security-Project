@@ -128,10 +128,6 @@ UDP Flood Attack successfully logged:
 
 ![udp_flood_detection](Images/udp_flood_detection.png)
 
-
-
-
-
 #
 
 ICMP Echo Flood Attack:
@@ -153,6 +149,36 @@ NMAP Scan Attack:
 NMAP Scan Attack successfully logged:
 
 ![NMAP_Detection](Images/NMAP_Detection.png)
+
+---
+
+## All Firewall and Server logs collected in Splunk
+
+FortiGate1: 
+
+![FORTIGATE1_LOGS](Images/FORTIGATE1_LOGS.png)
+
+#
+
+Fortigate2:
+
+![FORTIGATE2_LOGS](Images/FORTIGATE2_LOGS.png)
+
+#
+
+Apache Web Server:
+
+![APACHE_web_server_logs](Images/APACHE_web_server_logs.png)
+
+#
+
+SSH Server:
+
+![SSH_Server_logs](Images/SSH_Server_logs.png)
+
+---
+
+ 
 
 
 
