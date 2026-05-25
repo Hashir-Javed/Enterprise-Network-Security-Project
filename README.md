@@ -21,6 +21,7 @@ A secure multi-site network infrastructure built using two FortiGate firewalls, 
 Site 1 to Site 2:
 
 ![site1_to_site2_tunnel](Images/site1_to_site2_tunnel.png)
+
 Site1 tunnel up:
 ![status_tosite2](Images/status_tosite2.png)
 
@@ -29,6 +30,7 @@ Site1 tunnel up:
 Site 2 to Site 1:
 
 ![site2_to_site1_vpn](Images/site2_to_site1_vpn.png)
+
 Site2 tunnel up:
 ![status_tosite1](Images/status_tosite1.png)
 
@@ -47,8 +49,8 @@ Correct connection properties displayed:
 ![remoteaccess_connection_info](Images/remoteaccess_connection_info.png)
 
 ![server_address_for_remoteaccess](Images/server_address_for_remoteaccess.png)
-
-Remote access VPN type in use is L2TP with IPSec due to its enhanced security. L2TP creates a secure tunnel for data transfer, while IPSec encrypts the data within that tunnel, ensuring that the data remains confidential and protected from unauthorized access.
+#
+Remote access VPN type in use is L2TP with IPSec due to its enhanced security. L2TP creates a secure tunnel for data transfer, while IPSec encrypts the data within that tunnel, ensuring that the data remains confidential and protected from unauthorized access:
 ![Remoteaccess_properties](Images/Remoteaccess_properties.png)
 
 Client VPN connection active
