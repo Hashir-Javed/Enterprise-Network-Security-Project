@@ -197,6 +197,20 @@ SSH Server:
 
 ![AWS_tunnel_status_up_from_console](Images/AWS_tunnel_status_up_from_console.png)
 
+---
+
+## Dashboard Creation
+
+![Dashboard](Dashboard.pdf)
+
+---
+
+## FortiGate1 Sanitized configuration file
+
+
+
+## FortiGate2 Sanitized configuration file
+
 
 
 
