@@ -189,7 +189,7 @@ SSH Server:
 
 ## AWS Integration
 
-When setting up a VPN connection from FortiGate to AWS, two tunnels are automatically provisioned by AWS to maximize availability and eliminate single points of failure. With this in mind, it is best practice to take advantage of this design and configure both separate tunnels on the FortiGate firewall. Although, it is possible to bring up only a single tunnel and still maintain connectivity between both environments, we chose to utilize the dual-tunnel capability to ensure high availability and network resiliency in our enterprise environment
+When setting up a VPN connection to AWS, two tunnels are automatically provisioned by AWS to maximize availability and eliminate single points of failure. With this in mind, it is best practice to take advantage of this design and configure both separate tunnels on the FortiGate firewall. Although, it is possible to bring up only a single tunnel and still maintain connectivity between both environments, we chose to utilize the dual-tunnel capability to ensure high availability and network resiliency in our enterprise environment
 
 ---
 
