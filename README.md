@@ -168,7 +168,7 @@ FortiGate1:
 
 #
 
-Fortigate2:
+FortiGate2:
 
 ![FORTIGATE2_LOGS](Images/FORTIGATE2_LOGS.png)
 
