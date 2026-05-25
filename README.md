@@ -221,14 +221,12 @@ The AWS console verifies that both VPN connection tunnels are successfully estab
 
 ## Dashboard Creation
 
-![Dashboard](Dashboard.pdf)
 
----
+![Dashboard](Dashboard.pdf)
 
 ## FortiGate1 Sanitized configuration file
 
 ![FG1 Config](FORTIGATE1_Sanitized.conf)
-
 
 ## FortiGate2 Sanitized configuration file
 
