@@ -211,7 +211,7 @@ Firewall Policies in place:
 ![AWS_Firewall_policies](Images/AWS_Firewall_policies.png)
 
 Both tunnels are successfully established and actively running:
-[AWS_tunnel_connections](Images/AWS_tunnel_connections.png)
+![AWS_tunnel_connections](Images/AWS_tunnel_connections.png)
 ![AWS_tunnel_connections_up](Images/AWS_tunnel_connections_up.png)
 
 The AWS console verifies that both VPN connection tunnels are successfully established and functioning as required:
