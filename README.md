@@ -207,12 +207,12 @@ SSH Server:
 
 ## FortiGate1 Sanitized configuration file
 
-![FG1](FORTIGATE1_Sanitized.conf)
+![FG1 Config](FORTIGATE1_Sanitized.conf)
 
 
 ## FortiGate2 Sanitized configuration file
 
-![FG2](FORTIGATE2_Sanitized.conf)
+![FG2 Config](FORTIGATE2_Sanitized.conf)
 
 
 
