@@ -1,4 +1,4 @@
-# 🔒Enterprise Network Project - Security
+# 🔒Enterprise Network Security Project
 
 
 ## 🛠️Project Overview 
